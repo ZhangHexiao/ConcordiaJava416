@@ -1,4 +1,4 @@
-# ConcordiaJava416
-# Include onclass exercise
-# 3 Assignments
-# 2 final exam questions
+# Java416
+This repository is created for the Introduction to Java Programming
+## Assignment1
+![](IMG/A1.png)
